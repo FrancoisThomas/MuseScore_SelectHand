@@ -1,2 +1,2 @@
 # MuseScore_SelectHand
-MuseScore plugin to choose wich hand to play on a grand staff score.
+MuseScore plugin to choose which hand to play on a grand staff score.
